@@ -1,0 +1,1 @@
+print(hex(225), int('FF', 16), 0xFF)
